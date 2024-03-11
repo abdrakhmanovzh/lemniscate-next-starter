@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) starter template.
+This is my [Next.js](https://nextjs.org/) starter template.
 
 ## Configuration
 
